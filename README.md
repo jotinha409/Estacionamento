@@ -1,6 +1,10 @@
 #Estacionamento
 # Estacionamento
 
+Participantes:
+Davi Lucas Gonçalves Santos | Ra: 972515322
+ | Ciência da computação
+
 🅿️ Sistema de Controle de Estacionamento - Java
 📋 Funcionalidades
 Login e Cadastro de Usuário
