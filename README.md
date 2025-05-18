@@ -8,7 +8,7 @@ Davi Lucas Gonçalves Santos | Ra: 972515322
  
 Davi Lucas Sena Costa de Souza | Ra 972515323 | Análise e Desenvolvimento de Sistemas
 
-Fernando Giovani Clemente Ribeiro | RA: 972525325 | Analise e desenvolvimento de sistemas
+Fernando Giovani Clemente Ribeiro | RA: 972515325 | Analise e desenvolvimento de sistemas
 
 João Pedro Ferreira Queiroz | RA:972515409 | Análise e desenvolvimento de sistemas 
 
