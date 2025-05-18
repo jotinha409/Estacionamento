@@ -2,8 +2,11 @@
 # Estacionamento
 
 Participantes:
+
 Davi Lucas Gonçalves Santos | Ra: 972515322
- | Ciência da computação | | Davi Lucas Sena Costa de Souza | Ra 972515323 | Análise e Desenvolvimento de Sistemas
+ | Ciência da computação 
+ 
+Davi Lucas Sena Costa de Souza | Ra 972515323 | Análise e Desenvolvimento de Sistemas
 
 🅿️ Sistema de Controle de Estacionamento - Java
 📋 Funcionalidades
