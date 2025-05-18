@@ -7,7 +7,7 @@ Login e Cadastro de Usuário
 
 Cadastro com verificação de usuário duplicado
 
-Login com autenticação (senha oculta com *)
+Login com autenticação 
 
 Logoff (volta para tela de login)
 
