@@ -1,6 +1,8 @@
 #Estacionamento
 # Estacionamento
 
+Diagrama de Classes: https://drive.google.com/file/d/1FqS-tbVMUTxSQpVdQxoGthiga5Pxzfar/view?usp=drivesdk
+
 Participantes:
 
 Davi Lucas Gonçalves Santos | Ra: 972515322
